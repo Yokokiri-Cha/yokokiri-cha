@@ -1,5 +1,5 @@
 ### 横茶横葉のGitHubアカウントです!  
-![横茶横葉のCoffee](https://github.com/Yokokiri-Cha/yokokiri-cha/blob/main/coffee.png?raw=true)  
+<img src=".coffee.png" width="50%">
 
 
 <!--
