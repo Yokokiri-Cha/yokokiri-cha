@@ -1,4 +1,5 @@
-### 横茶横葉のGitHubアカウントです!  
+#### 横茶横葉のGitHubアカウントへようこそ!  
+### Welcome to Yokoha's GitHub main page!   
 <img src="/coffee.png" width="50%">
 
 
