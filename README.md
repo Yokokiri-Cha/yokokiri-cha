@@ -1,5 +1,5 @@
 ### 横茶横葉のGitHubアカウントです!  
-<img src=".coffee.png" width="50%">
+<img src="/coffee.png" width="50%">
 
 
 <!--
