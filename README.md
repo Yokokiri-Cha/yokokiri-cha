@@ -1,4 +1,6 @@
-### Hi there 👋
+### 横茶横葉のGitHubアカウントです!  
+![横茶横葉のCoffee](img/coffee.png)  
+
 
 <!--
 **Yokokiri-Cha/yokokiri-cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
