@@ -1,6 +1,10 @@
 ## 横茶横葉のGitHubアカウントへようこそ!  
 ### Welcome to Yokoha's GitHub main page!   
-<img src="/coffee.png" width="20%">
+<img src="/coffee.png" width="20%">  
+#### 対応プラットフォーム  
+##### Platforms  
+<img src="/androidimg.png" width="20%">
+<img src="/windows.png" width="20%">
 
 
 <!--
