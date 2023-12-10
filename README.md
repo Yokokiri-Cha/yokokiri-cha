@@ -4,7 +4,7 @@
 
 ### 現在製作中のプロジェクト/Active Project    
 ##### CoffeeOSS Rev.3  
-#### 対応プラットフォーム  
+#### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
 
