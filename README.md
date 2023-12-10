@@ -2,8 +2,7 @@
 ### Welcome to Yokoha's GitHub main page!   
 <img src="/coffee2.png" width="20%">  
 
-### 現在製作中のプロジェクト  
-#### What's Next?  
+### 現在製作中のプロジェクト/Active Project    
 ##### CoffeeOSS Rev.3  
 #### 対応プラットフォーム  
 ##### Platforms  
