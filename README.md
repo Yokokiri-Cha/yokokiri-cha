@@ -3,7 +3,7 @@
 <img src="/coffee2.png" width="20%">  
 
 ### 現在製作中のプロジェクト/Active Project    
-##### CoffeeOSS Rev.3  
+##### CoffeeOSS 4(公開済み)  
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
