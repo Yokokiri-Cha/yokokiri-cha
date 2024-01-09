@@ -3,7 +3,7 @@
 <img src="/coffeec.png" width="20%">  
 
 ### 現在製作中のプロジェクト/Active Project    
-##### CoffeeOSS 4(公開済み)  
+##### CoffeeOSS 4[An Open Source Japanese Browser](公開済み/Public)  
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
@@ -17,7 +17,8 @@
 ##### Contacts  
 yokochayokoha@duck.com  
 X(Twitter):@yokocha_yokoha  
-Instagram:わすれました../I forgot...
+Instagram:わすれました../I forgot...  
+
 <!--
 **Yokokiri-Cha/yokokiri-cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
