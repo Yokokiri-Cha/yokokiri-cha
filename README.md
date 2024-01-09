@@ -3,7 +3,7 @@
 <img src="/coffeec.png" width="20%">  
 
 ### 現在製作中のプロジェクト/Active Project    
-##### CoffeeOSS 4[An Open Source Japanese Browser](公開済み/Public)  
+##### CoffeeOSS 4-An Open Source Japanese Browser (公開済み/Public)  
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
