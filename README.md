@@ -3,7 +3,7 @@
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/smaho.png?raw=true" width="20%">  
 
 ### 現在製作中のプロジェクト/Active Project    
-##### CoffeeOSS 5-An Open Source Japanese Browser (制作進行中/In progress)  
+##### CoffeeOSS 6-An Open Source Japanese Browser (制作進行中/In progress)  
 #### 製作アプリ/ソフトの対応プラットフォーム  
 ##### Platforms  
 <img src="/androidimg.png" width="20%"><img src="/windows.png" width="20%">  
@@ -21,7 +21,7 @@ I'm a Japanese who loves Windows and Android OS very much! To be honest, I'm cur
 #### 連絡先  
 ##### Contacts  
 yokochayokoha@duck.com  
-X(Twitter):@yokocha_yokoha  
+X(Twitter):@yokocha_yokoha(not active/休止中)  
 Instagram:わすれました../I forgot...自分のサイトとかに書いてた...はず...(ambiguious.)  
 
 <!--
